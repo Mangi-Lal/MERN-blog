@@ -1,4 +1,4 @@
-import "whatwg-fetch";
+import "whatwg-fetch"; // this is for Internet explorer browser...
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
